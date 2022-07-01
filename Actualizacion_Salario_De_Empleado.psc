@@ -1,7 +1,7 @@
 Algoritmo Ejercicio_2
 	//Calcular el nuevo salario de un empleado 
 	//Obtuvo un incremento del 8% sobre su salario actual 
-	//Un descuento de 2,5% por servicios.
+	//Un descuento de 2,5% por servicios
 	Definir salario, aumento, descuento Como Real
 	Escribir "Introduce el salario: S/." Sin Saltar
 	Leer salario
