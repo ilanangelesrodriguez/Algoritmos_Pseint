@@ -1,5 +1,5 @@
 Algoritmo Ejercicio_3
-	//Calcular el área de un trapecio
+	//Calcular el Ã¡rea de un trapecio
 	//BM = base mayor
 	//bm = base menor
 	//h = altura
@@ -10,5 +10,5 @@ Algoritmo Ejercicio_3
 	Escribir "Introduce la altura: " Sin Saltar
 	Leer h
 	area = h * (BM + bm)/2
-	Escribir "El area del trapecio es: " area " u²"
+	Escribir "El area del trapecio es: " area " uÂ²"
 FinAlgoritmo
