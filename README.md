@@ -1,2 +1,3 @@
 ### HOLA
-## Agregare una descripcio cuando me desocupe en la Uni
+#### Agregare una descripcion cuando me desocupe en la Uni
+Puedes darle:  sudo apt-get install update ☑️
